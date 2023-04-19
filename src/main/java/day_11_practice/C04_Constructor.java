@@ -1,0 +1,37 @@
+package day_11_practice;
+
+public class C04_Constructor {
+
+    String marka;
+
+    String model;
+
+    int yil;
+
+    String yakit;
+
+
+
+
+
+    public C04_Constructor(String mrk, String mdl, int yl, String ykt) {
+
+        this.marka = marka;
+        this.model = model;
+        this.yil = yil;
+        this.yakit = yakit;
+    }
+
+
+
+
+
+
+    // marka, model, yil, yakit  seklinde dort tane instance variable olusturalım.
+    // Bu variable'lara parametreli constructor kullanarak, farli bir class'dan deger ataması yapınız ve yazdırınız
+
+
+
+
+
+}
